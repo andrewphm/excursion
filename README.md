@@ -3,4 +3,4 @@
 
 Static website built with CSS/HTML
 
-[To view the website visit](http://www.andrewpham.ca/excursion) 
+[To view the website click here](http://www.andrewpham.ca/excursion) 
